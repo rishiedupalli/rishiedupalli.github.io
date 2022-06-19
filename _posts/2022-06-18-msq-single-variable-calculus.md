@@ -2,6 +2,7 @@
 layout: post
 title: "Math Super Quick: Single Variable Calculus"
 categories: Math
+comments: true
 mathjax: true
 ---
 

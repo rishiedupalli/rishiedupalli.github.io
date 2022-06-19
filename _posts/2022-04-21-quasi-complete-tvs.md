@@ -2,6 +2,7 @@
 layout: post
 title: "quasi-complete topological vector spaces"
 categories: Math
+comments: false
 mathjax: true
 ---
 

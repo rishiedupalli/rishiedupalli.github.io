@@ -7,10 +7,15 @@ description: > # this means to ignore newlines until "show_excerpts:"
   ramblings on math, physics, computer science, music, and the world brought to you by a washed high school student
 
 show_excerpts: false # set to true to show excerpts on the homepage
+url: https://rishiedupalli.github.io/
+
+disqus:
+  shortname: rishiedupalli
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
+  skin: dark
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
