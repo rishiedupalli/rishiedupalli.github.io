@@ -6,8 +6,6 @@ comments: true
 mathjax: true
 ---
 
-# Math Super Quick: Single Variable Calculus
-
 Welcome to my first series of blog posts! Math Super Quick: Very surface level reviews of math.
 
 ## Limits
