@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   ramblings on math, physics, computer science, music, and the world brought to you by a washed high school student
 
 show_excerpts: false # set to true to show excerpts on the homepage
-url: https://rishiedupalli.github.io/
+url: https://rishiedupalli.serveblog.net/
 
 disqus:
   shortname: rishiedupalli
